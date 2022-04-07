@@ -1,5 +1,7 @@
-package com.altinsoy.account.dto;
+package com.altinsoy.account.dto.converter;
 
+import com.altinsoy.account.dto.CustomerAccountDto;
+import com.altinsoy.account.dto.converter.TransactionDtoConverter;
 import com.altinsoy.account.model.Account;
 import org.springframework.stereotype.Component;
 
