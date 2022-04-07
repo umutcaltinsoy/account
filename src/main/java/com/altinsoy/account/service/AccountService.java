@@ -1,7 +1,7 @@
 package com.altinsoy.account.service;
 
 import com.altinsoy.account.dto.AccountDto;
-import com.altinsoy.account.dto.AccountDtoConverter;
+import com.altinsoy.account.dto.converter.AccountDtoConverter;
 import com.altinsoy.account.dto.CreateAccountRequest;
 import com.altinsoy.account.model.Account;
 import com.altinsoy.account.model.Customer;
